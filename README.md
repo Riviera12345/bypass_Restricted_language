@@ -4,7 +4,6 @@ Bypass the Restricted language software that is used against Attackers On Powers
 # What is The Restricted language In Powershell
 restricted language is a security complication that has been done by developers That is, the files Where malicious Code exists in This File Ps1 In Powershell Not's running | Next analyzing To Files ps1 And .etc From Files 
 If it is observed in these files There are no Microsoft signatures Will be rejected Via restricted language 
----
 
 
 ## So this Code  May solve some  Restricted language problems to execute Code Malicious
